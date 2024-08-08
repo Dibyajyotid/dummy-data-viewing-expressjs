@@ -1,0 +1,14 @@
+RST API - JSON 
+
+GET /api/users - List all users as a JSON - ✅
+
+dynamic Path parameters
+
+    GET /api/users/:id=1 - get the user with id 1
+    GET /api/users/:id=2 - get the user with id 2 / similarly for all other users
+
+POST /api/users - create new users
+
+PATCH /api/user/id=1 or 2 - Edit the user with id
+
+DELETE /api/users/id=1 - delete  the user with id 1

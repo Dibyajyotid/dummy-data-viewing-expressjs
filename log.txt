@@ -1,0 +1,42 @@
+
+ undefined ; ::1 ; 1712325432199 ; GET ; / 
+
+ undefined ; ::1 ; 1712325435304 ; GET ; /users 
+
+ undefined ; ::1 ; 1712325442057 ; GET ; /api/users 
+
+ undefined ; ::1 ; 1712325475060 ; GET ; / 
+
+ undefined ; ::1 ; 1712325493748 ; GET ; /users 
+
+ undefined ; ::1 ; 1712325505044 ; GET ; /api/users 
+
+ undefined ; ::1 ; 1712325665540 ; POST ; /users 
+
+ undefined ; ::1 ; 1712325690622 ; POST ; /users 
+
+ undefined ; ::1 ; 1712325722488 ; DELETE ; /users/1003 
+
+ undefined ; ::1 ; 1712325753891 ; POST ; /users/1003 
+
+ undefined ; ::1 ; 1712325790941 ; POST ; /users 
+
+ undefined ; ::1 ; 1712325832209 ; PATCH ; /users/1002 
+
+ undefined ; ::1 ; 1712325861660 ; GET ; /users/1002 
+
+ undefined ; ::1 ; 1712325873420 ; GET ; /api/users 
+
+ undefined ; ::1 ; 1712325884627 ; GET ; /users 
+
+ undefined ; ::1 ; 1723129136099 ; GET ; / 
+
+ undefined ; ::1 ; 1723129136178 ; GET ; /favicon.ico 
+
+ undefined ; ::1 ; 1723129138963 ; GET ; /users 
+
+ undefined ; ::1 ; 1723129142546 ; GET ; /api/users 
+
+ undefined ; ::1 ; 1723129146507 ; GET ; /users 
+
+ undefined ; ::1 ; 1723129150746 ; GET ; /api/users 
